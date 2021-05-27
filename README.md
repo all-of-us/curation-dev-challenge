@@ -1,2 +1,2 @@
-# python-dev-challenge
-Simple challenge posed to potential Python dev hires
+# curation-dev-challenge
+Simple challenge posed to potential All of Us Curation Team dev hires
