@@ -14,6 +14,9 @@ to use a certain language, you must complete the challenge using that language.
 Unless explicitly specified in your challenge email, you are free to use whatever DB engine you choose.  If you are
 asked to use a certain DB engine, you must complete the challenge using the specified engine.
 
+Additionally, you must not add the database state to your submission.  As an example, no `sqlite.db` file or postgres 
+`pgdata` directory may be checked in.  The same applies for all other types of databases.
+
 ### 3. Docker
 You will be expected to define either a [Dockerfile](https://docs.docker.com/engine/reference/builder/) or
 a [Docker Compose](https://docs.docker.com/compose/compose-file/compose-file-v3/) file that, when run, launches your
